@@ -236,15 +236,15 @@
         )
         (pin output line (at 0 -2.54 0) (length 2.54)
           (name "TXD" (effects (font (size 1.27 1.27))))
-          (number "2" (effects (font (size 1.27 1.27))))
+          (number "3" (effects (font (size 1.27 1.27))))
         )
         (pin input line (at 0 -5.08 0) (length 2.54)
           (name "RXD" (effects (font (size 1.27 1.27))))
-          (number "3" (effects (font (size 1.27 1.27))))
+          (number "4" (effects (font (size 1.27 1.27))))
         )
         (pin power_in line (at 0 -10.16 0) (length 2.54)
           (name "VDD" (effects (font (size 1.27 1.27))))
-          (number "5" (effects (font (size 1.27 1.27))))
+          (number "6" (effects (font (size 1.27 1.27))))
         )
       )
       (symbol "LoRa_Module_0_1"
@@ -256,7 +256,7 @@
       (symbol "LoRa_Module_1_0"
         (pin no_connect line (at 0 -7.62 0) (length 2.54)
           (name "NRST" (effects (font (size 1.27 1.27))))
-          (number "4" (effects (font (size 1.27 1.27))))
+          (number "5" (effects (font (size 1.27 1.27))))
         )
       )
     )
@@ -622,10 +622,10 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 2f04a5d5-bed5-4a5e-9163-bb47df425564))
-    (pin "2" (uuid c46c6412-3cc3-428b-b38c-ba5d57cf34d1))
     (pin "3" (uuid 6fe6fc67-ba85-4068-ae47-2d6e5929727b))
-    (pin "5" (uuid f6b7fd8a-0071-42b4-806d-53007631d607))
     (pin "4" (uuid e477d80d-1629-418f-8476-510cf15f8127))
+    (pin "6" (uuid b8857cf6-94cf-44a6-a893-67ad5b99bfd3))
+    (pin "5" (uuid f6b7fd8a-0071-42b4-806d-53007631d607))
     (instances
       (project "longmon-hatt"
         (path "/fc493522-7015-405f-abaf-84a4f5d09cfd"
