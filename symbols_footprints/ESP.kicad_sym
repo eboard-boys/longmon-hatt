@@ -160,7 +160,7 @@
     (property "Footprint" "ESP:LCD Module" (at 0 11.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://www.amazon.com/240%C3%97320-Resolution-Raspberry-Interface-Operating/dp/B082GFTZQD/ref=sr_1_14?crid=3C9LA2PADQJVK&keywords=arduino%2Blcd%2Bmodule&qid=1697076126&s=electronics&sprefix=arduino%2Blcd%2Bmodule%2Celectronics%2C129&sr=1-14&th=1" (at 0 13.97 0)
+    (property "Datasheet" "https://www.waveshare.com/wiki/2inch_LCD_Module" (at 0 13.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Sim.Enable" "0" (at 8.89 11.43 0)
